@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/menu">
+        <file>src/Menu/CompBack.jpg</file>
+        <file>src/Menu/endMenu.png</file>
+        <file>src/Menu/EndMenuComp.png</file>
+        <file>src/Menu/MainMenuBack.jpg</file>
+        <file>src/Menu/NoSet.png</file>
+        <file>src/Menu/Off.png</file>
+        <file>src/Menu/On.png</file>
+        <file>src/Menu/pauseMenu.png</file>
+        <file>src/Menu/Set.png</file>
+        <file>src/Menu/SoloBack.jpg</file>
+        <file>src/Menu/Pause.png</file>
+    </qresource>
+</RCC>

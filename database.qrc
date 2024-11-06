@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/db">
+        <file>Yokai_data.db</file>
+    </qresource>
+</RCC>
